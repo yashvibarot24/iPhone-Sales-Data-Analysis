@@ -1,15 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    body {
-      font-family: -apple-system, BlinkMacSystemFont, "San Francisco", "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
-    }
-  </style>
-</head>
-<body>
+![image](https://github.com/user-attachments/assets/403c43d2-df5d-4e37-a078-9a24fad7e065)
   # **_iPhone Sales Data Analysis_**
 
   ## **Description**:
@@ -32,3 +21,5 @@
   2. **_Sales Trend Insights_**: Identifying iPhone sales peaks during specific months, such as the holiday season or new product releases, helping businesses forecast demand.
   3. **_Forecasting Future Sales_**: Leveraging machine learning to predict future iPhone sales trends, allowing businesses to prepare for product launches.
   4. **_Interactive Visualization_**: Using **Plotly** to create interactive and dynamic visualizations that provide a detailed look at sales patterns, such as bar charts, scatter Plots.
+
+     https://images.app.goo.gl/NqxkmZDFx2WQSqMw5
