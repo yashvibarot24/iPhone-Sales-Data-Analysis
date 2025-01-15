@@ -22,4 +22,5 @@
   3. **_Forecasting Future Sales_**: Leveraging machine learning to predict future iPhone sales trends, allowing businesses to prepare for product launches.
   4. **_Interactive Visualization_**: Using **Plotly** to create interactive and dynamic visualizations that provide a detailed look at sales patterns, such as bar charts, scatter Plots.
 
-     https://images.app.goo.gl/NqxkmZDFx2WQSqMw5
+  ![Exciting iPhone Sales](https://www.example.com/iphone_sales_animation.gif)
+
